@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Jehankandy
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Jehankandy	KEYWORD1	Jehankandy
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pat1	KEYWORD2
+pat2	KEYWORD2
+pat3	KEYWORD2
+pat4	KEYWORD2
+pat5	KEYWORD2
+PinSetup	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
